@@ -7,7 +7,6 @@ def reverse(lst):
     # # Using slicing
     # return lst[::-1]
 
-
     # Using loop
     start = 0
     end = len(lst) - 1
